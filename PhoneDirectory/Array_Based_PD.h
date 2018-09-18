@@ -74,6 +74,7 @@ private:
 	};
 
 
+
 	// Private Functions
 	/** Searches the array of directory entries for the name.
 		@param name The name to be found
