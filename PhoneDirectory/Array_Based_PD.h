@@ -53,7 +53,7 @@ public:
 	void save();
 
 private:
-	class Directory_Entry // Brandon Clark completed this excercise
+	class Directory_Entry // Brandon Clark completed this excercise and worked with Stepehen Haugland
 	{
 	public:
 		Directory_Entry() {
